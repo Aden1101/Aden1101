@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aden ELMI</h1>
-<h3 align="center">A student from Ecole Nationale des Ponts et Chaussées passionate about new technologies</h3>
+<h3 align="center">A student at École Nationale des Ponts et Chaussées, passionate about new technologies.</h3>
 
 - 🔭 I’m currently working on [Simulation of crowd movement at the platform/train interface](https://github.com/Aden1101/Mouvement_de_Foule_Interface_Quai-Train)
 
