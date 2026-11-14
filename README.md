@@ -35,9 +35,3 @@ I'm an engineering student at École des Ponts, in applied mathematics and compu
 ### Tools
 
 `Python` `PyTorch` `JAX` `C++` `Julia` `OpenCV` `scikit-learn` `SQL` `Google Cloud` `Git`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img src="assets/footer-light.svg" width="100%" alt="">
-</picture>
