@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Aden Elmi, MVA, ENS Paris-Saclay. World models, video generation, robotics and LLMs.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Aden Elmi, MVA, ENS Paris-Saclay. World models for video and robotics.">
 </picture>
 
 <p align="center">
