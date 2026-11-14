@@ -5,8 +5,8 @@
 </picture>
 
 <p align="center">
-  <a href="https://aden1101.github.io/videomemory/">Project page</a> ·
-  <a href="https://www.linkedin.com/in/aden-elmi-262129137/">LinkedIn</a> ·
+  <a href="https://aden1101.github.io/videomemory/">Project page</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aden-elmi-262129137/">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aden.elmi@enpc.fr">aden.elmi@enpc.fr</a>
 </p>
 
@@ -18,18 +18,18 @@ I'm a master's student in the MVA program (Mathematics, Vision, Learning) at ENS
 
 ### Experience
 
-- **Harvard AI and Robotics Lab** · Research intern, Boston, 2026<br>
+- **Harvard AI and Robotics Lab**, research intern, Boston, 2026<br>
   Memory for long video generation. I added a test-time-trained memory module to LongLive, an autoregressive video diffusion model, built the multi-GPU training pipeline in PyTorch and evaluated it on VBench. The method and the results are on the [project page](https://aden1101.github.io/videomemory/).
-- **Tetrixx** · AI engineer intern, Singapore, 2025<br>
+- **Tetrixx**, AI engineer intern, Singapore, 2025<br>
   Designed and built a multi-agent architecture on MCP servers to resolve supply-chain issues, with agent tools calling external APIs, deployed on Google Cloud.
 
 ### Projects
 
-- **[Crowd simulation at a train/platform interface](https://github.com/Aden1101/Mouvement_de_Foule_Interface_Quai-Train)** · Python<br>
+- **[Crowd simulation at a train/platform interface](https://github.com/Aden1101/Mouvement_de_Foule_Interface_Quai-Train)**, Python<br>
   Real-time agent-based pedestrian simulation, where each agent optimizes a utility function (local density, distance to goal).
-- **A contrario edge detection** · C++<br>
+- **A contrario edge detection**, C++<br>
   Level lines extracted with the FLST tree, then two a contrario methods compared to select meaningful edges. Supervised by Pascal Monasse (IMAGINE lab, École des Ponts).
-- **Large-scale factory scheduling with Renault** · Python<br>
+- **Large-scale factory scheduling with Renault**, Python<br>
   Simulated-annealing heuristic for instances too large for MILP solvers, selected to be presented to Renault.
 
 ### Tools
