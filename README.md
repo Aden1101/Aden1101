@@ -1,12 +1,32 @@
-<h1 align="center">Hi 👋, I'm Aden ELMI</h1>
-<h3 align="center">A student at École Nationale des Ponts et Chaussées, passionate about new technologies.</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Aden Elmi">
+</picture>
 
-- 🔭 I’m currently working on [Simulation of crowd movement at the platform/train interface](https://github.com/Aden1101/Mouvement_de_Foule_Interface_Quai-Train)
+MVA student at ENS Paris-Saclay, previously at École des Ponts. I work on world models and video generation, and I'm also interested in robotics and LLMs.
 
-- 📫 How to reach me **aden.elmi@enpc.fr**
+**I'm looking for a research internship from April 2027** (4 to 6 months), ideally leading to a PhD.
 
-<p align="left">
-</p>
+### Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Harvard AI and Robotics Lab** · Research intern<br>
+<sub>Boston, March to August 2026</sub>
+
+Memory for long video generation. I added a test-time-trained memory module to LongLive, an autoregressive video diffusion model, and evaluated it on VBench. The method and the results are on the [project page](https://aden1101.github.io/videomemory/).
+
+**Tetrixx** · AI engineer intern<br>
+<sub>Singapore, July to December 2025</sub>
+
+Multi-agent system built on MCP servers to resolve supply-chain issues, deployed on Google Cloud.
+
+### Projects
+
+**[Crowd simulation at a train/platform interface](https://github.com/Aden1101/Mouvement_de_Foule_Interface_Quai-Train)**<br>
+<sub>Python</sub>
+
+Real-time agent-based pedestrian simulation, where each agent optimizes a utility function (local density, distance to goal).
+
+### Contact
+
+[aden.elmi@enpc.fr](mailto:aden.elmi@enpc.fr) · [LinkedIn](https://www.linkedin.com/in/aden-elmi-262129137/)
