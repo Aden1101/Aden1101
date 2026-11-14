@@ -19,13 +19,13 @@ I'm a master's student in the MVA program (Mathematics, Vision, Learning) at ENS
 ### Experience
 
 - **Harvard AI and Robotics Lab**, research intern, Boston, 2026<br>
-  Memory for long video generation. I added a test-time-trained memory module to LongLive, an autoregressive video diffusion model, built the multi-GPU training pipeline in PyTorch and evaluated it on VBench. The method and the results are on the [project page](https://aden1101.github.io/videomemory/).
+  Memory for long video generation. I added a test-time-trained memory module to LongLive, an autoregressive video diffusion model, built the multi-GPU training pipeline in PyTorch and evaluated it on VBench. The method and the results are on the [project page](https://aden1101.github.io/videomemory/), and the code is [on GitHub](https://github.com/Aden1101/VideoMemory).
 - **Tetrixx**, AI engineer intern, Singapore, 2025<br>
   Designed and built a multi-agent architecture on MCP servers to resolve supply-chain issues, with agent tools calling external APIs, deployed on Google Cloud.
 
 ### Projects
 
-- **[Crowd simulation at a train/platform interface](https://github.com/Aden1101/Mouvement_de_Foule_Interface_Quai-Train)**, Python<br>
+- **[Crowd simulation at a train/platform interface](https://github.com/Aden1101/crowd-simulation)**, Python<br>
   Real-time agent-based pedestrian simulation, where each agent optimizes a utility function (local density, distance to goal).
 - **A contrario edge detection**, C++<br>
   Level lines extracted with the FLST tree, then two a contrario methods compared to select meaningful edges. Supervised by Pascal Monasse (IMAGINE lab, École des Ponts).
