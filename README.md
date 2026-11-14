@@ -1,10 +1,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Aden Elmi">
+  <img src="assets/header-light.svg" width="100%" alt="Aden Elmi, MVA, ENS Paris-Saclay">
 </picture>
 
-MVA student at ENS Paris-Saclay, previously at École des Ponts. I work on world models and video generation, and I'm also interested in robotics and LLMs.
+<p align="center">
+  <a href="https://aden1101.github.io/videomemory/">Project page</a> ·
+  <a href="https://www.linkedin.com/in/aden-elmi-262129137/">LinkedIn</a> ·
+  <a href="mailto:aden.elmi@enpc.fr">aden.elmi@enpc.fr</a>
+</p>
+
+I work on world models and video generation, and I'm also interested in robotics and LLMs. I'm doing the MVA master's at ENS Paris-Saclay, after an engineering degree at École des Ponts.
 
 **I'm looking for a research internship from April 2027** (4 to 6 months), ideally leading to a PhD.
 
@@ -26,7 +32,3 @@ Multi-agent system built on MCP servers to resolve supply-chain issues, deployed
 <sub>Python</sub>
 
 Real-time agent-based pedestrian simulation, where each agent optimizes a utility function (local density, distance to goal).
-
-### Contact
-
-[aden.elmi@enpc.fr](mailto:aden.elmi@enpc.fr) · [LinkedIn](https://www.linkedin.com/in/aden-elmi-262129137/)
