@@ -12,7 +12,7 @@
 
 ### About
 
-I'm an engineering student at École des Ponts, in applied mathematics and computer science, currently in the MVA master's program (Mathematics, Vision, Learning) at ENS Paris-Saclay. I work on world models and video generation, and I'm also interested in robotics and LLMs.
+I'm an engineering student at École des Ponts, in applied mathematics and computer science, currently in the MVA master's program (Mathematics, Vision, Learning) at ENS Paris-Saclay. I work on world models and video/image generation.
 
 **I'm looking for a research internship from April 2027** (4 to 6 months), ideally leading to a PhD.
 
